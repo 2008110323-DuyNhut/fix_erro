@@ -1,0 +1,5 @@
+*.pyc
+build/
+*.log
+credentials.json
+__pycache__/
